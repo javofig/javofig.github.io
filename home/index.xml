@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on </title>
+    <link>https://javofig.github.io/home/</link>
+    <description>Recent content in Homes on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://javofig.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://javofig.github.io/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://javofig.github.io/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://javofig.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://javofig.github.io/home/about/</guid>
+      <description>Biografía Maestro en Criminología y Política Criminal por el Instituto Nacional de Ciencias Penales y Licenciado en Psicología por la Facultad de Psicología de la Universidad Regional del Sureste.
+Ha realizado estudios de especialidad en sistemas penitenciarios y reinserción social en el Instituto Nacional de Ciencias Penales, así como seminarios y cursos en teoría crítica 17, Instituto de Estudios Crítico
+Se ha desempeñado como: asistente de investigación del Instituto Nacional de Ciencias Penales, coordinador de proyectos de prevención del Subsidio para la Seguridad en los Municipios (SUBSEMUN) y del Programa Nacional de Prevención del Delito (PRONAPRED) en diferentes delegaciones y municipios</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://javofig.github.io/home/skills/</link>
+      <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://javofig.github.io/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publicaciones Recientes</title>
+      <link>https://javofig.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://javofig.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ponencias</title>
+      <link>https://javofig.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://javofig.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://javofig.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://javofig.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>https://javofig.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://javofig.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
